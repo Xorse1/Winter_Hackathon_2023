@@ -1,0 +1,3 @@
+# Azubi Hackathon
+
+## BitBandits
